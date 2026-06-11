@@ -2,7 +2,7 @@ import time
 
 
 # =========================================
-# CONSTANTES
+# CONSTANTES testeo desde VSC
 # =========================================
 
 PIN_CORRECTO = "1234"
